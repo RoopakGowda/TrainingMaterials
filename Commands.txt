@@ -1,0 +1,23 @@
+1.node -v
+2.npm -v
+3.npm i -g @angular/cli
+4.ng -v
+4.ng new MyFirstApp
+5. [app directory] code .
+6. [app directory] ng serve --open
+7. ctrl + c the Y to terminate server
+8. ng --help
+9. ng --help | clip
+10. ng--help > Help.doc
+11. ng generate component abc
+12. ng generate component abc --prefix trainig
+13 ng generate component [folder name]/abc --prefix trainig
+14. ng generate service abc
+14. ng generate service abc -m=app.module (to register service)
+15. ng generate directive abc -m=app.module
+16. ng generate pipe pipeName 
+17 . ng generate interface interfaceName or ng g i interfaceName 
+18. ng generate class className or ng g cl className 
+19. ng generate enum enumName or ng g e enumName 
+20. npm install bootstrap@3 --save
+
